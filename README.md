@@ -5,6 +5,8 @@
 RABC Programa de cifra simétrica de bloco AES-GCM.
 
 [PT-BR]
+
+
 Para Encriptar uma messagem:
 --------------------
 Plain Text e Key estão pre-setados no programa, mas podem ser alterados.
@@ -32,6 +34,8 @@ Para Decifrar a menssagem:
 
 
 [EN-US]
+
+
 To Encrypt a message:
 --------------------
 1 — Create an executable from the code using GCC or any other compiler, passing the -lssl and -lcrypto flags.
